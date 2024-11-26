@@ -1,3 +1,6 @@
+# Examen Final
+#Universitario Chura Padilla Walberth Jesus
+#CU. 104-468
 import gymnasium as gym
 import numpy as np
 import matplotlib.pyplot as plt
